@@ -1,0 +1,4 @@
+pyautogui==0.9.53
+colorama==0.4.5
+
+qpcplgskxf
